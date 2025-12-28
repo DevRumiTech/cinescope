@@ -2,6 +2,11 @@ CineScope
 
 CineScope is a movie browsing web application that allows users to explore and search for movies using an external API.
 
+Screenshots
+
+![Home](screenshots/home.png)
+![Search](screenshots/search.png)
+
 Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python
