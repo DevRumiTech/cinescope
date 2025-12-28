@@ -1,18 +1,16 @@
-CineScope – Interactive Movie Recommendation Web App:
+CineScope
 
-CineScope is an interactive portfolio web application showcasing movie recommendation logic, filtering, and ranking through a polished, user-focused interface.
-The demo simulates backend API behavior to provide instant interaction and a seamless user experience.
+CineScope is a movie browsing web application that allows users to explore and search for movies using an external API.
 
-Tech Stack:
+Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- API: External movie API
 
-JavaScript (logic & state management)
-HTML & CSS (responsive UI)
-Simulated API layer (in-browser data + async behavior)
+Features
+- Browse popular movies
+- Search movies by title
+- View movie details
 
-How to Use:
-
-Open the application in a web browser
-Search movies by title or filter by genre
-View dynamically updated recommendations
-Explore features such as ranking, reset, and surprise selection
-No setup, no terminal, no installation required.
+Notes
+The backend is for local use only and is not deployed.
